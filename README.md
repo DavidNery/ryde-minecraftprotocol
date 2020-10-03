@@ -4,6 +4,12 @@
 
 This is a "minilauncher" for minecraft Java Edition.
 
+This not render chunks, only chat and other things smaller, like scoreboard.
+
+<strong>ATTENTION:</strong> this project was not designed to be used by ordinary users. 
+Its purpose is to help developers test plugins for minecraft servers.
+So, when you need to test plugins that require more than one client and that don’t necessarily need chunks rendering, this project is a good option.
+
 ## What you can do with it?
 For now, the only things that you can do are:
 - Send ping
